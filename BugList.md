@@ -1,7 +1,7 @@
 ### Bugs found in Atom.io as I work
 
 - Saving a file w/ "full" last line (or possible carriage return) adds a line to the file.
-- cmd-w doesn't close "window" when no other tabs open in current window/view.
+- ~~cmd-w doesn't close "window" when no other tabs open in current window/view. (command-shift-w does this, oops.)~~
 - toggle tabs by keyboard?
 - octicon/emoji support (is it present?)
 
